@@ -1,0 +1,1 @@
+Modified the text file to be recovered its absence in the staging branch
